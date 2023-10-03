@@ -46,3 +46,4 @@ Makefile
 ArraysAndVectors.workspace
 *.workspace
 ArraysAndVectors.workspace
+.codelite/ArraysAndVectors-andre.tags
