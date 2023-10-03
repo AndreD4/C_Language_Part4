@@ -124,6 +124,32 @@ separated by commas.
 
 * Remeber - no bounds checking!
 
+# Vectors
+
+* Suppose we want to store test scores for my school
+
+* I have no way of knowing how many students will register next year
+
+* Options:
+  
+    - Pick up a size that you are not likely to exceed and use static arrays
+    - 
+    - Use a dynamic array such as vector
+
+* What is a vector?
+
+  * Container in the C++ Standard Template Library.
+ 
+  * An array that can grow and shrink in size at execution time.
+ 
+  * Provide similar semantics and syntax as arrays.
+ 
+  * Very efficient.
+ 
+  * Can provide bounds checking.
+ 
+  * can use lots of cool functions like sort reverse, finds, and more.
+
 
 
 
