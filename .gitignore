@@ -49,3 +49,12 @@ ArraysAndVectors.workspace
 .codelite/ArraysAndVectors-andre.tags
 .codelite/ArraysAndVectors-andre.tags
 *.tags
+*.tags
+ArraysAndVectors.workspace
+*.workspace
+build-Debug/Vectors/ObjectsList.txt
+Vectors/Vectors.mk
+Vectors/Vectors.project
+Vectors/.clangd
+Vectors/.clang-format
+ArraysAndVectors.workspace
