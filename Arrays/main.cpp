@@ -20,7 +20,7 @@ int main()
     
     
     
-    int test_scores[5] {100, 90, 80, 90, 60};
+    int test_scores[5] {};
     
     cout << "\nFirst score at index 0: " << test_scores [0] << endl;
     cout << "Second score at index 1: " << test_scores [1] << endl;
