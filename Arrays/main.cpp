@@ -43,22 +43,8 @@ int main()
     cout << "Fith score at index 4: " << test_scores [4] << endl;
     
     
+    cout << "\nNotice what the vaule of the array name is: " << test_scores << endl;
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    cout << endl;
     return 0;    
 }
