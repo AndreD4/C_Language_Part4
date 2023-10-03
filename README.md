@@ -112,7 +112,17 @@ We include an initialization list after the declaration.
 In this list, we can provide as many initializers as we like
 
 separated by commas.
- 
+
+
+* How does it work?
+
+* The name of array represents the location of the first element in array (index 0)
+
+* the [index] represents the offset from the beginning of the array.
+
+* C++ simply performs a calculation to find the correct element.
+
+* Remeber - no bounds checking!
 
 
 
