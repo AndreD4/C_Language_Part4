@@ -82,6 +82,47 @@ You could still do it but it becomes tedious and error prone.
  
   - Iteration (looping) is often used to process.
  
+  # Declaring & initialization
+
+
+* The syntax for an array declaration is very simple.
+
+First, we write the type of each element in the array.
+
+This is followed by the name of the array variable.
+
+Then we provide square brackets which is the array indexing operator.
+
+And in the square brackets, we provide the size that we want the array to be.
+
+Remember, this size is fixed, so the compiler must know the size
+
+of whatever's in the square brackets at compile time.
+
+So this can be a constant literal.
+
+It can be a declared constant or constant expression.
+
+We can also initialize arrays when we declare them, and it's good practice to do so.
+
+The syntax is similar to when we initialize primitive variables.
+
+We include an initialization list after the declaration.
+
+In this list, we can provide as many initializers as we like
+
+separated by commas.
+
+
+* How does it work?
+
+* The name of array represents the location of the first element in array (index 0)
+
+* the [index] represents the offset from the beginning of the array.
+
+* C++ simply performs a calculation to find the correct element.
+
+* Remeber - no bounds checking!
 
 
 
