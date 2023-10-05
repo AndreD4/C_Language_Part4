@@ -68,3 +68,5 @@ Challenge/.clang-format
 Challenge/.clangd
 Challenge/Challenge.project
 Vectors/main.cpp
+ArraysAndVectors.workspace
+.codelite/ArraysAndVectors-andre.tags
