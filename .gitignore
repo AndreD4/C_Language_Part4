@@ -72,3 +72,6 @@ ArraysAndVectors.workspace
 .codelite/ArraysAndVectors-andre.tags
 .codelite/ArraysAndVectors-andre.tags
 ArraysAndVectors.workspace
+ChallengeSolution/.clang-format
+ChallengeSolution/.clangd
+ChallengeSolution/ChallengeSolution.project
