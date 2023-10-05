@@ -75,3 +75,6 @@ ArraysAndVectors.workspace
 ChallengeSolution/.clang-format
 ChallengeSolution/.clangd
 ChallengeSolution/ChallengeSolution.project
+.codelite/ArraysAndVectors-andre.tags
+build-Debug/ChallengeSolution/ObjectsList.txt
+ChallengeSolution/ChallengeSolution.mk
