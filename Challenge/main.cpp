@@ -17,7 +17,11 @@
     Add vector1 to vector_2d dynamically using push_back
     Add vector2 to vector_2d dynamically using push_back
     
-    Displat the elements in vector_2d again using th at() method
+    Display the elements in vector_2d again using th at() method
+    
+    Change vector1.at(0) to 1000
+    
+    Display the elements in vector_2d again using th at() method
     
     Display the elements in vector1
     
