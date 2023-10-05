@@ -65,7 +65,7 @@ int main()
     cout << test_scores.at(3) << endl;
     cout << test_scores.at(4) << endl;
     
-    cout << "\nThere are now " << test_scores.size() << " scores in the vertor" << endl;
+//    cout << "\nThere are now " << test_scores.size() << " scores in the vertor" << endl;
     
     
     
